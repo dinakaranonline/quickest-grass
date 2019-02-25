@@ -4,8 +4,6 @@
   "scripts": {
     "ng": "ng",
     "build": "ng build",
-    "postinstall": "npm run build",
-    "start": "node bin/www",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
